@@ -8,7 +8,7 @@
 
 # Bio
 
-I was born in Moscow, Russia. Now I'm 18 years old. Pursuing a BS in Computer Scinec at a public university. Also interested in art.
+I was born in Moscow, Russia. Now I'm 18 years old. Pursuing a BS in Computer Scinece at a public university. Also interested in art.
 
 # Career Interests
 
