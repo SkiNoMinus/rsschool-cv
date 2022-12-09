@@ -3,7 +3,7 @@
 # Contacts
 
 * E-mail: skishou.developer@yandex.ru
-* Telegram: [https://t.me/minusov_net](@minusov_net)
+* Telegram: [@minusov_net](https://t.me/minusov_net)
 * Discord: skishouMIIT#7006
 
 # Bio
